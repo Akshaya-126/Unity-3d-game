@@ -1,4 +1,4 @@
-# Unity-3d-game | Leap quest
+# Unity-3d-game 
 
 Leap Quest | 3D Adventure Platformer Game
 
