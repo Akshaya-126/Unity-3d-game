@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: ff2232d5192f9564db2987ccf07b16a3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - level1Star1: {instanceID: 0}
+  - level1Star2: {instanceID: 0}
+  - level1Star3: {instanceID: 0}
+  - level2Star1: {instanceID: 0}
+  - level2Star2: {instanceID: 0}
+  - level2Star3: {instanceID: 0}
+  - level3Star1: {instanceID: 0}
+  - level3Star2: {instanceID: 0}
+  - level3Star3: {instanceID: 0}
+  - level1Button: {instanceID: 0}
+  - level2Button: {instanceID: 0}
+  - level3Button: {instanceID: 0}
+  - emptyStar: {fileID: 21300000, guid: 5e1bc4ed400b98e48810051cbef3db80, type: 3}
+  - fullStar: {fileID: 21300000, guid: 4d7a07e565cd4a84e84a00f45088228a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
